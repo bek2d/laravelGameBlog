@@ -4,7 +4,7 @@ Game blog made using Laravel, HTML/CSS, Bootstrap
 
 ﻿Screenshots for each feature/requirements for the web site
 
-The welcome page of our blog for guets is Sign In/Sign Up page. Therefore in Laravel the route is '/' or just empty. This layout is typical almost for all social websites on the Internet. Therefore on the left you can observe our logo with the motto below it. On the right side of the page, there is a standard form. On this screenshot we can see an attempt to enter a blank field and front-end validation that prevents it. Another thing is a footer. Footer was t contains feedback form, which is tested on the next screenshot.![](Aspose.Words.42eb1005-8c39-43de-bfc4-f5f46887d748.001.png)
+The welcome page of our blog for guets is Sign In/Sign Up page. Therefore in Laravel the route is '/' or just empty. This layout is typical almost for all social websites on the Internet. Therefore on the left you can observe our logo with the motto below it. On the right side of the page, there is a standard form. On this screenshot we can see an attempt to enter a blank field and front-end validation that prevents it. Another thing is a footer. Footer was t contains feedback form, which is tested on the next screenshot.![](readmeImages/Aspose.Words.42eb1005-8c39-43de-bfc4-f5f46887d748.001.png)
 
 Below is zoomed and filled version of the feedback footer. From grid layout and buttons it is clear that Bootstrap was used.![](Aspose.Words.42eb1005-8c39-43de-bfc4-f5f46887d748.002.png)
 
