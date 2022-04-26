@@ -1,0 +1,114 @@
+.arttop
+{
+    padding: 50px 20px;
+    text-align: center;
+
+}
+.arttop h1
+{
+    font-family: Roboto, sans-serif;
+    color: #181818;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 1;
+    padding: 10px 0;
+    margin:0;
+    text-decoration: underline;
+}
+.middle{
+    width: 80%;
+    height:400px ;
+    background-color: #ffffff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin: 50px 0px 0px 200px;
+    display: flex;
+}
+
+
+h5
+{
+    padding: 10px;
+}
+.middle button
+{
+    width: 300px;
+    height: 50px;
+    background: linear-gradient(45deg, #d81317, #e5c0c0);
+    border: none;
+}
+button:hover
+{
+    border: 2px solid #ffffff;
+}
+.middle button a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.middle .img-fluid
+{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+/*
+.middle table
+{
+    padding: 25px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+thead , td
+{
+    text-align: left;
+    padding: 15px;
+
+}
+thead
+{
+    background-color: #181818;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Roboto , sans-serif;
+    border: 3px solid #bc1215;
+}
+td
+{
+    align-content: start;
+    font-size: 20px;
+
+}
+*/
+/*
+.middle table
+{
+    padding: 25px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+thead , td
+{
+    text-align: left;
+    padding: 15px;
+
+}
+thead
+{
+    background-color: #181818;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Roboto , sans-serif;
+    border: 3px solid #bc1215;
+}
+td
+{
+    align-content: start;
+    font-size: 20px;
+
+}
+*/
